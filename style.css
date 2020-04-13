@@ -1,0 +1,11 @@
+body {
+    font-family:courier,serif
+    margin: 60px auto;
+    width: 70%;
+    text-align: center;
+    background-color: #808080;
+}
+
+h1 {
+  color: #64AEA0
+}
