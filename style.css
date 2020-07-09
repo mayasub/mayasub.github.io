@@ -4,8 +4,61 @@ html, body {
     width: 70%;
     text-align: center;
     background-color: ##d9d9d9;
+    display: flex;
+    height: 100%;
+    padding: 0px;
 }
 
-h1 {
-  color: #64AEA0
+.headshot {
+  border-radius: 50%;
+}
+
+html, body {
+  display: flex;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.topnav {
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #0sds3;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.home {
+  color: #8399F1;
+}
+
+.journey {
+  color: #B1F183;
+}
+.blog {
+  color: #F1A683;
+}
+.next {
+  color: #F183D6;
+}
+
+.left, .right {
+
+  margin: 5px;
+  max-width: 50%;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.name {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  margin-bottom: 2px;
 }
