@@ -1,12 +1,8 @@
 html, body {
     font-family:'Open Sans',sans-serif;
-    margin: 60px auto;
-    width: 70%;
     text-align: center;
-    background-color: ##d9d9d9;
-    display: flex;
+    background-color: ##e0e0e0;
     height: 100%;
-    padding: 0px;
 }
 
 .headshot {
@@ -14,7 +10,6 @@ html, body {
 }
 
 html, body {
-  display: flex;
   height: 100%;
   margin: 0px;
   padding: 0px;
@@ -34,17 +29,21 @@ html, body {
 }
 
 .home {
-  color: #8399F1;
+  color: #3965d5;
 }
 
-.journey {
-  color: #B1F183;
+.experience {
+  color: #C183F1;
 }
 .blog {
-  color: #F1A683;
+  color: #61ddff;
 }
 .next {
   color: #F183D6;
+}
+
+.contact {
+  color: #8399F1;
 }
 
 .left, .right {
@@ -52,13 +51,12 @@ html, body {
   margin: 5px;
   max-width: 50%;
   flex: 1;
-  display: flex;
   flex-direction: column;
   justify-content: center;
 }
 
+
 .name {
-  font-family: 'Open Sans', sans-serif;
+  font: 'Open Sans', sans-serif;
   font-weight: bold;
-  margin-bottom: 2px;
 }
