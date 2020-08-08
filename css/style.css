@@ -9,11 +9,16 @@ body {
     text-align: center;
 }
 
+.headshot {
+    border-radius: 50%;
+    width: 300px;
+}
+
 a {
     font-family: "Open Sans";
     font-style: normal;
     font-size: 24px;
-    color: #e5a8ff;
+    color: #54a8ab;
 }
 
 a:link {
@@ -34,7 +39,7 @@ h1 {
     font-family: "Playfair Display";
     font-size: 40px;
     font-style: normal;
-    color: #e5a8ff;
+    color: #54a8ab;
 }
 
 h2 {
