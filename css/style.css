@@ -3,15 +3,16 @@ body {
 }
 
 .footer {
-    font-family: "Open Sans";
+    font-family: "Playfair Display";
     font-size: 14px;
     font-style: normal;
     text-align: center;
 }
 
-.headshot {
+.circle {
     border-radius: 50%;
     width: 300px;
+    border: 3px solid #000000;
 }
 
 a {
@@ -37,14 +38,14 @@ a:active {
 
 h1 {
     font-family: "Playfair Display";
-    font-size: 40px;
+    font-size: 45px;
     font-style: normal;
     color: #54a8ab;
 }
 
 h2 {
     font-family: "Open Sans";
-    font-size: 30px;
+    font-size: 25px;
     font-style: normal;
     color: black;
 }
