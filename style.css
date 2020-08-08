@@ -1,0 +1,14 @@
+:root {
+    --peach: #fdc39d;
+    --lime: #e5e338;
+    --pink: #ec576b;
+    --aqua: #4ec5c1;
+    --grey: #bebebe;
+    --black: #000000;
+  }
+
+  .footer {
+      font-family: "Open Sans";
+      font-size: 14px;
+      font-style: normal;
+  }
