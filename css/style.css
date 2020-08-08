@@ -5,10 +5,10 @@
     --aqua: #4ec5c1;
     --grey: #bebebe;
     --black: #000000;
-  }
+}
 
-  .footer {
+h4 {
       font-family: "Open Sans";
       font-size: 14px;
       font-style: normal;
-  }
+}
