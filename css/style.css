@@ -4,19 +4,32 @@
     --pink: #ec576b;
     --aqua: #4ec5c1;
     --grey: #bebebe;
-    --black: #000000;
 }
 
 .navBar {
-    background-color: var(--black);
+    background-color: black;
     font-family: "Open Sans";
     font-style: normal;
     font-size: 24px;
+    color: white;
+}
+
+h1 {
+    font-family: "Playfair Display";
+    font-size: 40px;
     font-style: normal;
+    color: var(--aqua);
+}
+
+h1 {
+    font-family: "Open Sans";
+    font-size: 30px;
+    font-style: normal;
+    color: black;
 }
 
 h4 {
-      font-family: "Open Sans";
-      font-size: 14px;
-      font-style: normal;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-style: normal;
 }
