@@ -1,5 +1,5 @@
-.navBar {
-    background-color: #b1b1b1;
+body {
+    background-color: #fcfcfc;
 }
 
 .footer {
@@ -9,27 +9,11 @@
     text-align: center;
 }
 
-.navHome {
-    color: #e5e338;
-}
-
-.navExperience {
-    color: #ec576b;
-}
-
-.navBlog {
-    color: #4ec5c1;
-}
-
-.navContact {
-    color: #fdc39d;
-}
-
 a {
     font-family: "Open Sans";
     font-style: normal;
     font-size: 24px;
-    color: white;
+    color: #e5a8ff;
 }
 
 a:link {
@@ -50,7 +34,7 @@ h1 {
     font-family: "Playfair Display";
     font-size: 40px;
     font-style: normal;
-    color: #4ec5c1;
+    color: #e5a8ff;
 }
 
 h2 {
