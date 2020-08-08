@@ -7,6 +7,14 @@
     --black: #000000;
 }
 
+.navBar {
+    background-color: var(--black);
+    font-family: "Open Sans";
+    font-style: normal;
+    font-size: 24px;
+    font-style: normal;
+}
+
 h4 {
       font-family: "Open Sans";
       font-size: 14px;
