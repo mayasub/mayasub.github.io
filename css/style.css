@@ -20,18 +20,17 @@ body {
     border-radius: 50%;
     width: 300px;
     border: 3px solid #000000;
+}
+
+.inline {
     display: inline-block;
-    padding: 20px;
+    padding: 20px; 
 }
 
 .circle {
-    display: inline-block;
-    padding: 20px;
     border-radius: 50%;
     width: 200px;
     border: 2px solid #000000;
-    display: inline-block;
-    padding: 20px;
 }
 
 a {
