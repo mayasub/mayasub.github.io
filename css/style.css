@@ -13,6 +13,27 @@ body {
     text-align: center;
 }
 
+.organization {
+    font-family: "Playfair Display";
+    font-size: 30px;
+    font-style: normal;
+    color: #54a8ab;
+}
+
+.title {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-size: 24px;
+    color: #000000;
+}
+
+.time {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-size: 20px;
+    color: #54a8ab;
+}
+
 .headshot {
     border-radius: 50%;
     width: 300px;
