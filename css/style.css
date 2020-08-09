@@ -3,7 +3,8 @@ body {
 }
 
 .navBar {
-    align-items: center;
+    display: inline-block;
+    padding: 20px;
 }
 
 .footer {
@@ -70,6 +71,6 @@ h2 {
 h3 {
     font-family: "Open Sans";
     font-style: normal;
-    font-size: 20px;
+    font-size: 15px;
     color: #54a8ab;
 }
