@@ -2,6 +2,10 @@ body {
     background-color: #fcfcfc;
 }
 
+.navBar {
+    align-items: center;
+}
+
 .footer {
     font-family: "Playfair Display";
     font-size: 14px;
