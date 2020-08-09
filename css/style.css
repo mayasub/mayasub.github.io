@@ -3,6 +3,7 @@ body {
 }
 
 .navBar {
+    line-height: 45px;
     height: 45px;
     position: fixed;
     vertical-align: middle;
@@ -60,10 +61,10 @@ body {
 }
 
 .contactCenter {
-    width: 50%;
+    width: auto;
     margin: auto;
     position: absolute;
-     top: 50%;
+    top: 50%;
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
 }
@@ -94,6 +95,7 @@ body {
 }
 
 .contact {
+    margin: 0 auto;
     font-family: "Open Sans";
     font-size: 23px;
     font-style: normal;
