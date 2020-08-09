@@ -21,6 +21,11 @@ body {
     color: #54a8ab;
 }
 
+.experience {
+    display: inline-block;
+    padding: 20px;
+}
+
 .headshot {
     border-radius: 50%;
     width: 300px;
@@ -28,8 +33,10 @@ body {
 }
 
 .circle {
+    display: inline-block;
+    padding: 20px;
     border-radius: 50%;
-    width: 175px;
+    width: 200px;
     border: 2px solid #000000;
 }
 
