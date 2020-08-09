@@ -2,6 +2,13 @@ body {
     background-color: #fcfcfc;
 }
 
+.navBar {
+    margin: auto;
+    width: auto;
+    text-align: center;
+    padding: 10px;
+}
+
 .footer {
     position: fixed;
     left: 0;
@@ -11,6 +18,10 @@ body {
     font-size: 14px;
     font-style: normal;
     text-align: center;
+}
+
+.leftAlign {
+    text-align: left;
 }
 
 .organization {
