@@ -16,6 +16,15 @@ body {
     color: #54a8ab;
 }
 
+.homePage {
+    margin: auto;
+}
+
+.experience {
+    margin: auto;
+    text-align: center;
+}
+
 .headshot {
     border-radius: 50%;
     width: 300px;
