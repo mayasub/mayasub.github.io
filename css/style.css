@@ -45,6 +45,7 @@ body {
 }
 
 .experience {
+    align: inline-block;
     margin: auto;
     text-align: center;
 }
