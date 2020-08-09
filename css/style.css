@@ -4,9 +4,7 @@ body {
 
 .navBar {
     margin: auto;
-    width: auto;
     text-align: center;
-    padding: 10px;
 }
 
 .footer {
@@ -32,6 +30,8 @@ body {
 }
 
 .homePage {
+    padding: 70px 0;
+    width: 99%;
     margin: auto;
 }
 
@@ -49,7 +49,8 @@ body {
 
 .inline {
     display: inline-block;
-    padding: 20px; 
+    swidth: 150px;
+    padding:0px 4px;
 }
 
 .circle {
