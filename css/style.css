@@ -3,16 +3,21 @@ body {
 }
 
 .navBar {
+    background-color: #54a8ab;
     margin: auto;
     text-align: center;
+    left: 0;
+    width: 100%;
 }
 
 .footer {
     position: fixed;
+    background-color: #54a8ab;
     left: 0;
     bottom: 0;
     width: 100%;
     font-family: "Playfair Display";
+    color: #000000;
     font-size: 14px;
     font-style: normal;
     text-align: center;
@@ -49,8 +54,7 @@ body {
 
 .inline {
     display: inline-block;
-    swidth: 150px;
-    padding:0px 4px;
+    padding:0px 200px;
 }
 
 .circle {
@@ -63,7 +67,7 @@ a {
     font-family: "Open Sans";
     font-weight: 700px;
     font-size: 18px;
-    color: #54a8ab;
+    color: #000000;
 }
 
 a:link {
@@ -74,7 +78,7 @@ a:visited {
 } 
 a:hover {
     text-decoration: none;
-    color: #000000;
+    color: #ffffff;
 } 
 a:active {
     text-decoration: none;
