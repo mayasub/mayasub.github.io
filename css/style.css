@@ -3,10 +3,14 @@ body {
 }
 
 .navBar {
+    height: 45px;
+    position: fixed;
+    vertical-align: middle;
     background-color: #54a8ab;
     margin: auto;
     text-align: center;
     left: 0;
+    top: 0;
     width: 100%;
 }
 
