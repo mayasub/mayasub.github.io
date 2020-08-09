@@ -14,6 +14,22 @@ body {
     width: 100%;
 }
 
+.navHome {
+    padding:0px 40px;
+}
+
+.navExperience {
+    padding:0px 40px;
+}
+
+.navBlog {
+    padding:0px 40px;
+}
+
+.navContact {
+    padding:0px 40px;
+}
+
 .footer {
     position: fixed;
     background-color: #54a8ab;
@@ -39,15 +55,14 @@ body {
 }
 
 .homePage {
-    padding: 70px 0;
-    width: 99%;
     margin: auto;
+    width: 100%;
 }
 
 .experience {
-    align: inline-block;
+    display: inline-block;
     margin: auto;
-    text-align: center;
+    width: 60%;
 }
 
 .headshot {
@@ -59,13 +74,26 @@ body {
 
 .inline {
     display: inline-block;
-    padding:0px 200px;
+    padding:0px 100px;
 }
 
 .circle {
     border-radius: 50%;
     width: 200px;
     border: 2px solid #000000;
+    vertical-align: top;
+}
+
+.contact {
+    font-family: "Open Sans";
+    font-size: 30px;
+    font-style: normal;
+    color: black;
+}
+
+.contact:hover {
+    text-decoration: none;
+    color: #54a8ab;
 }
 
 a {
