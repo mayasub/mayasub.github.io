@@ -86,6 +86,16 @@ body {
     width: 60%;
 }
 
+.left {
+    text-align: center;
+}
+
+.description {
+    display: inline-block;
+    padding:0px 50px;
+    text-align: left;
+}
+
 .headshot {
     border-radius: 50%;
     width: 300px;
