@@ -81,13 +81,16 @@ body {
 }
 
 .experience {
+    display: flex;
+    align-items: center;
     margin: auto;
-    width: 90%;
+    width: 80%;
 }
 
 .left {
+    width: 500px;
     display: inline-block;
-    padding:0px 50px;
+    padding:0px 30px;
     text-align: center;
 }
 
@@ -182,9 +185,9 @@ h4 {
 h5 {
     font-family: "Open Sans";
     font-style: normal;
-    font-size: 15px;
+    font-size: 14px;
     color: black;
-    width: 500px;
+    width: 450px;
     margin: auto;
     text-align: center;
 }
