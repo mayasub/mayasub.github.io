@@ -137,8 +137,8 @@ body {
 
 hr {
     line-height: 10px;
-    margin-left: 500px;
-    margin-right: 500px;
+    width: 45%;
+    border: #54a8ab;
 }
 
 .contact {
