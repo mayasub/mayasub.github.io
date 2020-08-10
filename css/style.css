@@ -138,7 +138,7 @@ body {
 hr {
     line-height: 10px;
     width: 45%;
-    border: #54a8ab;
+    border: .75px solid #54a8ab;
 }
 
 .contact {
