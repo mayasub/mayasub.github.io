@@ -120,6 +120,14 @@ body {
     vertical-align: top;
 }
 
+.miniText {
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-style: normal;
+    color: black;
+    text-align: left;
+}
+
 .contact {
     margin: 0 auto;
     font-family: "Open Sans";
