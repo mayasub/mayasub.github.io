@@ -121,6 +121,15 @@ body {
     vertical-align: top;
 }
 
+.medText {
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-style: normal;
+    color: black;
+    text-align: left;
+    width: 450px;
+}
+
 .miniText {
     font-family: "Open Sans";
     font-size: 14px;
