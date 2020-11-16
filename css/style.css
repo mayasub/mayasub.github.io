@@ -121,22 +121,13 @@ body {
     vertical-align: top;
 }
 
-.medText {
-    font-family: "Open Sans";
-    font-size: 18px;
-    font-style: normal;
-    color: black;
-    text-align: left;
-    width: 450px;
-}
-
 .miniText {
     font-family: "Open Sans";
     font-size: 14px;
     font-style: normal;
     color: black;
     text-align: left;
-    width: 475px;
+    width: 500pt;
 }
 
 .timeline {
